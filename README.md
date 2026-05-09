@@ -21,6 +21,8 @@ La aplicación se desarrollará exclusivamente para la plataforma Android. Se ut
 
 ## Diseño (Wireframes)
 *Para esta sección en el README, deberás subir imágenes de tus bocetos o describir brevemente cada pantalla:*
-*   **Pantalla 1:** Login/Acceso con PIN.
-*   **Pantalla 2:** Dashboard con gráfico circular de gastos y lista de tareas prioritarias.
-*   **Pantalla 3:** Formulario de registro de gastos/ingresos.
+*   **Pantalla 1:** Dashboard.
+*   https://www.figma.com/make/cFDsH1kjACdw23WerINiUI/Dise%C3%B1o-de-panel-Dashboard?t=3D82sQmDgbE6xfZ8-20&fullscreen=1
+*   **Pantalla 2:** Finanzas.
+*   **Pantalla 3:** Tareas.
+*   **Pantalla 4:** Mensajes.
