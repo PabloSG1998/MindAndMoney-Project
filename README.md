@@ -23,6 +23,3 @@ La aplicación se desarrollará exclusivamente para la plataforma Android. Se ut
 *Para esta sección en el README, deberás subir imágenes de tus bocetos o describir brevemente cada pantalla:*
 *   **Pantalla 1:** Dashboard.
 *   https://www.figma.com/make/cFDsH1kjACdw23WerINiUI/Dise%C3%B1o-de-panel-Dashboard?t=3D82sQmDgbE6xfZ8-20&fullscreen=1
-*   **Pantalla 2:** Finanzas.
-*   **Pantalla 3:** Tareas.
-*   **Pantalla 4:** Mensajes.
