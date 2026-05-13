@@ -20,6 +20,5 @@ La aplicación se desarrollará exclusivamente para la plataforma Android. Se ut
 4.  **Sincronización de Consejos (Online):** Recepción de tips de educación financiera y frases motivacionales.
 
 ## Diseño (Wireframes)
-*Para esta sección en el README, deberás subir imágenes de tus bocetos o describir brevemente cada pantalla:*
 *   **Pantalla 1:** Dashboard.
 *   https://www.figma.com/make/cFDsH1kjACdw23WerINiUI/Dise%C3%B1o-de-panel-Dashboard?t=3D82sQmDgbE6xfZ8-20&fullscreen=1
